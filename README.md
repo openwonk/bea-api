@@ -1,6 +1,6 @@
-US BEA API Client
+BEA API Client
 =======
-Client package that facilitates access to economic data via the [US Bureau of Economic Analysis (BEA)](http://www.bea.gov).  For access, be sure to obtain a free [registration key](http://www.bea.gov/API/signup/index.cfm). 
+Client package that facilitates access to economic data via the [US Bureau of Economic Analysis (BEA)](http://www.bea.gov).  Be sure to obtain a free [registration key](http://www.bea.gov/API/signup/index.cfm) prior to accessing the API. 
 
 
 ### Usage
